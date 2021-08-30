@@ -90,7 +90,7 @@ button {
   color: hsl(228, 45%, 44%);
 }
 
-@media (min-width: 375px) {
+@media (min-width: 400px) {
   .container {
     max-width: 1000px;
     margin: auto;
